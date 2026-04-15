@@ -192,21 +192,6 @@ iOS 18 new APIs                       ███████░░░  Tracking
 ```
 
 ---
-
-## GitHub Activity
-
-<div align="center">
-
-![Roszhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roszhan2684&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roszhan2684&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=roszhan2684&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## Let's Talk
 
 I'm actively exploring **new-grad and internship opportunities** in:
